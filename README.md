@@ -4,13 +4,18 @@ Azure Maps is a portfolio of geospatial service APIs natively integrated into Az
 
 This collection contains samples to create and run a Jupyter Notebook on Azure Notebooks in the cloud and call Azure Maps REST APIs in Python.
 
-# Azure Maps Code Samples
+# Additional resources
+
+## Azure Notebooks
+
+* [Azure Notebooks](https://github.com/Microsoft/AzureNotebooks)
+
+
+## Azure Maps Code Samples
 
 A collection of over a hundred code samples for the [Azure Maps](https://azure.com/maps) Web SDK.
 
 [Try it now](https://azuremapscodesamples.azurewebsites.net/)
-
-[![screenshot](Images/screenshot.png)](https://azuremapscodesamples.azurewebsites.net/)
 
 ## Related Projects
 
