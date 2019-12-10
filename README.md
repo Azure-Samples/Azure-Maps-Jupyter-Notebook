@@ -1,8 +1,22 @@
+---
+page_type: sample
+languages:
+- python
+products:
+- azure-maps
+description: "Jupyter Notebook to show how to use Azure Maps services in Python "
+urlFragment: "AzureMapsJupyterNootbook"
+---
+
 # A Gallery of Azure Notebooks calling Azure Maps REST services in Python
 
 Azure Maps is a portfolio of geospatial service APIs natively integrated into Azure that enable developers, enterprises, and ISVs to create location aware apps and IoT, mobility, logistics, and asset tracking solutions. The Azure Maps REST APIs can be called from languages like Python and R to enable geospatial data analysis and machine learning scenarios.
 
 This collection contains samples to create and run a Jupyter Notebook on Azure Notebooks in the cloud and call Azure Maps REST APIs in Python.
+
+**Tutorial Notebooks**
+
+ - [EV Routing and Reachable Range](https://github.com/Azure-Samples/Azure-Maps-Jupyter-Notebook/tree/master/AzureMapsJupyterSamples/Tutorials/EV%20Routing%20and%20Reachable%20Range)
 
 # Additional resources
 
