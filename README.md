@@ -18,6 +18,8 @@ This collection contains samples to create and run a Jupyter Notebook on Azure N
 
  - [EV Routing and Reachable Range](https://github.com/Azure-Samples/Azure-Maps-Jupyter-Notebook/tree/master/AzureMapsJupyterSamples/Tutorials/EV%20Routing%20and%20Reachable%20Range)
 
+ - [Join private weather sensor data with Azure Maps weather forecast data](https://github.com/Azure-Samples/Azure-Maps-Jupyter-Notebook/tree/master/AzureMapsJupyterSamples/Tutorials/Analyze%20Weather%20Data)
+
 # Additional resources
 
 ## Azure Notebooks
