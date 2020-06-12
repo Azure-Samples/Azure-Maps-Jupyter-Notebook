@@ -3,6 +3,7 @@ page_type: sample
 languages:
 - python
 products:
+- azure
 - azure-maps
 description: "Jupyter Notebook to show how to use Azure Maps services in Python "
 urlFragment: "AzureMapsJupyterNootbook"
