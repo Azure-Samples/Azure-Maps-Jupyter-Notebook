@@ -17,36 +17,31 @@ This collection contains samples to create and run a Jupyter Notebook on Azure N
 
 **Tutorial Notebooks**
 
- - [EV Routing and Reachable Range](https://github.com/Azure-Samples/Azure-Maps-Jupyter-Notebook/tree/master/AzureMapsJupyterSamples/Tutorials/EV%20Routing%20and%20Reachable%20Range)
+- [EV Routing and Reachable Range](https://github.com/Azure-Samples/Azure-Maps-Jupyter-Notebook/tree/master/AzureMapsJupyterSamples/Tutorials/EV%20Routing%20and%20Reachable%20Range)
 
- - [Join private weather sensor data with Azure Maps weather forecast data](https://github.com/Azure-Samples/Azure-Maps-Jupyter-Notebook/tree/master/AzureMapsJupyterSamples/Tutorials/Analyze%20Weather%20Data)
+- [Join private weather sensor data with Azure Maps weather forecast data](https://github.com/Azure-Samples/Azure-Maps-Jupyter-Notebook/tree/master/AzureMapsJupyterSamples/Tutorials/Analyze%20Weather%20Data)
 
-# Additional resources
+- [Snap to road route using Microsoft Fabric notebooks](https://github.com/Azure-Samples/Azure-Maps-Jupyter-Notebook/tree/master/AzureMapsJupyterSamples/Tutorials/Snap%20to%20Roads)
 
-## Azure Notebooks
+## Additional resources
 
-* [Azure Notebooks](https://github.com/Microsoft/AzureNotebooks)
+### Notebooks
 
+- [Jupyter Notebook in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
+- [How to use Microsoft Fabric notebooks](https://learn.microsoft.com/fabric/data-engineering/how-to-use-notebook)
 
-## Azure Maps Code Samples
+### Azure Maps Code Samples
 
-A collection of over a hundred code samples for the [Azure Maps](https://azure.com/maps) Web SDK.
+[Azure Maps Samples](https://samples.azuremaps.com/): A collection of over a hundred code samples for the Azure Maps Web SDK.
 
-[Try it now](https://azuremapscodesamples.azurewebsites.net/)
+### Related Projects
 
-## Related Projects
+- [Azure Maps Tutorial Samples](https://github.com/Azure-Samples/azure-maps-samples/)
+- [Azure Maps .NET UWP IoT Remote Control](https://github.com/Azure-Samples/azure-maps-dotnet-webgl-uwp-iot-remote-control)
+- [AirMap Azure Maps plugin](https://github.com/airmap/js-azure-maps-plugin)
 
-* [Azure Maps Tutorial Samples](https://github.com/Azure-Samples/azure-maps-samples/tree/master/src)
-* [Azure Maps .NET UWP IoT Remote Control](https://github.com/Azure-Samples/azure-maps-dotnet-webgl-uwp-iot-remote-control)
-* [AirMap Azure Maps plugin](https://github.com/airmap/js-azure-maps-plugin)
+### Additional Resources
 
-## Additional Resources
-
-* [Azure Maps (main site)](https://azure.com/maps)
-* [Azure Maps Documentation](https://docs.microsoft.com/azure/azure-maps/index)
-* [Azure Maps Blog](https://azure.microsoft.com/blog/topics/azure-maps/)
-* [MSDN Forums](https://social.msdn.microsoft.com/Forums/en-US/home?forum=azurelbs)
-* [StackOverflow [azure-maps]](https://stackoverflow.com/questions/tagged/azure-maps)
-* [Azure Maps feedback](https://feedback.azure.com/forums/909172-azure-maps)
-
-
+- [Azure Maps Documentation](https://learn.microsoft.com/azure/azure-maps/)
+- [Azure Maps Blog](https://azure.microsoft.com/blog/topics/azure-maps/)
+- [StackOverflow [azure-maps]](https://stackoverflow.com/questions/tagged/azure-maps)
